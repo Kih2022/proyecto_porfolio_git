@@ -8,3 +8,9 @@ nav {
     padding: 20px;
     color: black;
 }
+
+about {
+    &nav {
+        background-color: blue;
+    }
+}
